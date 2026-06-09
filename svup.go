@@ -1,4 +1,10 @@
-// Package svup uploads files to IPFS through Pinata.
+//
+//												svuplib @ v1.1.2
+//
+//									MIT License, Copyright (c) 2026 Derek Handy
+//							Project can be found at: https://github.com/derekhandy/svuplib
+//
+
 package svup
 
 import (
