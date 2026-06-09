@@ -1,7 +1,7 @@
 # svuplib
 
 
-<b> svuplib </b> is a Go library for uploading files or byte data to IPFS through Pinata and returning the CID, gateway URL, filename, size, timestamp, and error metadata. Available for Linux, Windows and MacOS architectures. Cross-platform support.
+<b> svuplib </b> is a Go library for uploading files or byte data to IPFS through Pinata and returning the CID, gateway URL, filename, size, timestamp, and error metadata. Cross-platform support.
 
 Requires <b> Go 1.21 </b> or newer and a <b> Pinata </b> account.
 
