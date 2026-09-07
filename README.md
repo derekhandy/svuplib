@@ -125,7 +125,3 @@ The default gateway is:
 ```text
 https://gateway.pinata.cloud/ipfs/
 ```
-
-## NOTICE
-
-<b> This library sends file contents to Pinata using the credentials provided by the caller or shell environment. Calling applications are responsible for validating file contents, account permissions, gateway behavior, and whether returned URLs should be shared.</b>
